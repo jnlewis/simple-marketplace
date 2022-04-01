@@ -17,7 +17,7 @@ const NFTCard = (p: NFTCardProps) => {
     console.log('viewing details...');
   };
 
-  const showFiendlyCategory = (category: string) => {
+  const showCat = (category: string) => {
     let friendlyCategory = '';
     if (category === 'collection') {
       friendlyCategory = 'Collection';
@@ -41,7 +41,7 @@ const NFTCard = (p: NFTCardProps) => {
       <Card.Img className={styles.cardImage} variant="top" src={`/assets/nft/${p.image}`} />
       <Card.Body className={styles.cardBody}>
         <Card.Title className={styles.cardTitle}>{p.title}</Card.Title>
-        <Card.Text className={styles.cardSubtitle}>Sold by {p.seller} in {showFiendlyCategory(p.category)}</Card.Text>
+        <Card.Text className={styles.cardSubtitle}>Sold by {p.seller} in {showCat(p.category)}</Card.Text>
         <Card.Text className={styles.cardDescription}>
           {p.description}
         </Card.Text>
