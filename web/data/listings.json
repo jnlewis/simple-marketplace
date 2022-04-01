@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "3D Cities #2033",
+        "description": "An art collection made up of voxel-based microcosms displaying iconic cities from real life/fiction. Only 333 unique cities to be minted.",
+        "price": "11 ETH",
+        "image": "starwars-1.png",
+        "seller": "Donathan",
+        "category": "art"
+    },
+    {
+        "id": 2,
+        "title": "3D Cities #3345",
+        "description": "An art collection made up of voxel-based microcosms displaying iconic cities from real life/fiction. Only 333 unique cities to be minted.",
+        "price": "32 ETH",
+        "image": "starwars-2.png",
+        "seller": "April Joy",
+        "category": "art"
+    },
+    {
+        "id": 3,
+        "title": "3D Cities #1233",
+        "description": "An art collection made up of voxel-based microcosms displaying iconic cities from real life/fiction. Only 333 unique cities to be minted.",
+        "price": "29 ETH",
+        "image": "starwars-3.png",
+        "seller": "Sangsheet",
+        "category": "art"
+    },
+    {
+        "id": 1,
+        "title": "Coolman Universe #2033",
+        "description": "Spesh is looking for his best friend throughout Coolmans Universe. To travel through this universe Spesh uses a surfboard and a compass.",
+        "price": "11 ETH",
+        "image": "coolman-1.png",
+        "seller": "Darth Maul",
+        "category": "collection"
+    },
+    {
+        "id": 2,
+        "title": "Coolman Universe #3345",
+        "description": "Spesh is looking for his best friend throughout Coolmans Universe. To travel through this universe Spesh uses a surfboard and a compass.",
+        "price": "32 ETH",
+        "image": "coolman-2.png",
+        "seller": "April Joy",
+        "category": "collection"
+    },
+    {
+        "id": 3,
+        "title": "Coolman Universe #1233",
+        "description": "Spesh is looking for his best friend throughout Coolmans Universe. To travel through this universe Spesh uses a surfboard and a compass.",
+        "price": "29 ETH",
+        "image": "coolman-3.png",
+        "seller": "Sangsheet",
+        "category": "collection"
+    },
+    {
+        "id": 4,
+        "title": "Gutter Rat #2327",
+        "description": "The year is 2050. Humans are an interplanetary species and have all but abandoned the post-apocalyptic shatters of society on earth. Cats have taken over.",
+        "price": "10 ETH",
+        "image": "rat-1.png",
+        "seller": "Darth Maul",
+        "category": "collection"
+    },
+    {
+        "id": 5,
+        "title": "Gutter Rat #564",
+        "description": "The year is 2050. Humans are an interplanetary species and have all but abandoned the post-apocalyptic shatters of society on earth. Cats have taken over.",
+        "price": "23 ETH",
+        "image": "rat-2.png",
+        "seller": "April Joy",
+        "category": "collection"
+    },
+    {
+        "id": 6,
+        "title": "Gutter Rat #4579",
+        "description": "The year is 2050. Humans are an interplanetary species and have all but abandoned the post-apocalyptic shatters of society on earth. Cats have taken over.",
+        "price": "14 ETH",
+        "image": "rat-3.png",
+        "seller": "Donathan",
+        "category": "collection"
+    },
+    {
+        "id": 1,
+        "title": "Starwars #2033",
+        "description": "A collection of Starwars characters from a galaxy far far away.",
+        "price": "11 ETH",
+        "image": "starwars-1.png",
+        "seller": "Darth Maul",
+        "category": "movies"
+    },
+    {
+        "id": 2,
+        "title": "Starwars #3345",
+        "description": "A collection of Starwars characters from a galaxy far far away.",
+        "price": "32 ETH",
+        "image": "starwars-2.png",
+        "seller": "Sangsheet",
+        "category": "movies"
+    },
+    {
+        "id": 3,
+        "title": "Starwars #1233",
+        "description": "A collection of Starwars characters from a galaxy far far away.",
+        "price": "29 ETH",
+        "image": "starwars-3.png",
+        "seller": "Sangsheet",
+        "category": "movies"
+    }
+]

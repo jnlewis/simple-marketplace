@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Starwars #2033",
+        "description": "A collection of Starwars characters from a galaxy far far away.",
+        "price": "11 ETH",
+        "image": "starwars-1.png",
+        "seller": "Darth Maul",
+        "category": "movies"
+    },
+    {
+        "id": 2,
+        "title": "Starwars #3345",
+        "description": "A collection of Starwars characters from a galaxy far far away.",
+        "price": "32 ETH",
+        "image": "starwars-2.png",
+        "seller": "Sangsheet",
+        "category": "movies"
+    },
+    {
+        "id": 3,
+        "title": "Starwars #1233",
+        "description": "A collection of Starwars characters from a galaxy far far away.",
+        "price": "29 ETH",
+        "image": "starwars-3.png",
+        "seller": "Sangsheet",
+        "category": "movies"
+    }
+]
